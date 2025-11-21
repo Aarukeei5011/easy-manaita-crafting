@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #C",
+        "# C",
+        " #C"
+    ],
+    "key": {
+        "#": {
+            "item": "manaita_plus_legacy:block_crafting_manaita"
+        },
+        "C": {
+            "item": "minecraft:cobblestone_wall"
+        }
+    },
+    "result": {
+        "item": "manaita_plus_legacy:manaita_bow",
+        "count": 1
+    }
+}

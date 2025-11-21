@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "FDF",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "D": {
+            "item": "clickmanaita:clickmanaita_custom"
+        }
+    },
+    "result": {
+        "item": "manaita_plus_legacy:block_furnace_manaita",
+        "count": 1
+    }
+}
